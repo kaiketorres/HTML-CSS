@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div > img{
+    display: none;
+}
+
+div > audio{
+    display: none;
+}
+
+div:hover > img{
+  display: block;
+  width: 117px;     
+}
+
+div:hover > audio{
+    display: block;
+    width: 230px;     
+  }
+

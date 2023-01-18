@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited{
+    color: rgb(149, 20, 175);
+}
+
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+a:active{
+    color: rgb(30, 91, 204);
+}
+
+.especial::before{
+    content: ' (»)';
+    text-decoration: none;
+    font-weight: normal;
+    color: rgb(20, 11, 102);
+}
+.especial::after{
+    content: ' («)';
+    text-decoration: none;
+    font-weight: normal;
+    color: rgb(20, 11, 102);
+    }
