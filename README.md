@@ -105,4 +105,4 @@ Capítulo 12:
 </ul>
 
 # &#X263A; Link
-Você pode acessar o curso pelo site: https://www.cursoemvideo.com/curso/html5-css3-modulo2/
+Você pode acessar o curso pelo site: https://www.cursoemvideo.com/curso/html5-css3-modulo1/
