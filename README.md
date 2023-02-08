@@ -106,21 +106,21 @@ Capítulo 12:
 
 # &#10004; Exercícios terminados
 
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex001/">EX001</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex002/">EX002</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex003/">EX003</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex004/">EX004</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex005/">EX005</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex006/">EX006</a>/
-<a href="">EX007</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex008/">EX008</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex009/">EX009</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex010/">EX010</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex011/">EX011</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex012/">EX012</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex013/">EX013</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex014/">EX014</a>/
-<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex015/">EX015</a>/
+/ <a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex001/">EX001</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex002/">EX002</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex003/">EX003</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex004/">EX004</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex005/">EX005</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex006/">EX006</a> /
+<a href="">EX007</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex008/">EX008</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex009/">EX009</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex010/">EX010</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex011/">EX011</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex012/">EX012</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex013/">EX013</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex014/">EX014</a> /
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex015/">EX015</a> /
 
 # &#X263A; Link
 Você pode acessar o curso pelo site: https://www.cursoemvideo.com/curso/html5-css3-modulo1/
