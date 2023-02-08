@@ -106,7 +106,7 @@ Capítulo 12:
 
 # &#10004; Exercícios terminados
 
-# <a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex001/">EX001</a>
+<a target="_blank" href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex001/">EX001</a>
 
 # &#X263A; Link
 Você pode acessar o curso pelo site: https://www.cursoemvideo.com/curso/html5-css3-modulo1/
