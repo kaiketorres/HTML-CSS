@@ -104,5 +104,9 @@ Capítulo 12:
   <li>CSS3</li>
 </ul>
 
+👨‍💻
+
 # &#X263A; Link
 Você pode acessar o curso pelo site: https://www.cursoemvideo.com/curso/html5-css3-modulo1/
+
+
