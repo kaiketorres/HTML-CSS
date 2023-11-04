@@ -121,7 +121,7 @@ Capítulo 12:
 <a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex013/">EX013</a> /
 <a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex014/">EX014</a> /
 <a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex015/">EX015</a> /
-
+<a href="https://kaiketorres.github.io/HTML5-CC3-Modulo01-CursoemVideo/Exerc%C3%ADcios/Ex019/">EX019</a> /
 # &#X263A; Link
 Você pode acessar o curso pelo site: https://www.cursoemvideo.com/curso/html5-css3-modulo1/
 
