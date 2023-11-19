@@ -1,0 +1,14 @@
+div{
+    display: inline-block;
+    background-color: rgb(212, 166, 166);
+    text-align: center;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+div:hover{
+    background-color: aqua;
+}
+
+

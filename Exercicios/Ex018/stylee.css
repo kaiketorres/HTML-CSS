@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'kaike';
+    src: url(Sugar\ Snow.otf);
+}
+
+body{
+    font-family: kaike;
+}
