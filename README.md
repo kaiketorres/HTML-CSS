@@ -86,12 +86,12 @@ Capítulo 17:
 
 # &#10004; Exercícios terminados
 
-/ <a href="https://kaiketorres.github.io/HTML5-CC3-Modulo02-CursoemVideo/Exercicios/Ex016/Cor001.html">EX016</a> /
-  <a href="https://kaiketorres.github.io/HTML5-CC3-Modulo02-CursoemVideo/Exercicios/Ex017/Fonte001.html">EX017</a>
-  <a href="">EX018</a> /
-  <a href="">EX019</a> /
-  <a href="">EX020</a> /
-  <a href="">EX021</a> /
+/ <a href="https://kaiketorres.github.io/HTML5-CSS3-Modulo02-CursoemVideo/Exercicios/Ex016/Cor001.html">EX016</a> /
+  <a href="https://kaiketorres.github.io/HTML5-CSS3-Modulo02-CursoemVideo/Exercicios/Ex017/Fonte001.html">EX017</a>
+  <a href="https://kaiketorres.github.io/HTML5-CSS3-Modulo02-CursoemVideo/Exercicios/Ex018/Fonte001.html">EX018</a> /
+  <a href="https://kaiketorres.github.io/HTML5-CSS3-Modulo02-CursoemVideo/Exercicios/Ex019/Seletor001.html">EX019</a> /
+  <a href="https://kaiketorres.github.io/HTML5-CSS3-Modulo02-CursoemVideo/Exercicios/Ex20/1Pseudo-classes.html">EX020</a> /
+  <a href="https://kaiketorres.github.io/HTML5-CSS3-Modulo02-CursoemVideo/Exercicios/Ex21/Caixa01.html">EX021</a> /
 
 # &#X263A; Link
 Você pode acessar o curso pelo site: https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/

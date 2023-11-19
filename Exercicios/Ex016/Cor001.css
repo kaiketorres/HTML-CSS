@@ -5,13 +5,19 @@
 }
 body{background-image: linear-gradient(to right,#0FC2C0,#0CABA8);}
 
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 main{
     background-color: rgb(244, 255, 255);
     border-radius: 10px;
     box-shadow: 5px 5px 15px #02353593;
     width: 700px;
     padding: 10px;
-    margin: auto;
+   
 }
 
 h1{
@@ -28,11 +34,6 @@ h2{
 p{
     text-align:justify;
 }
-
-img{
-    margin-left: 640px ;
-}
-
 
 
 
